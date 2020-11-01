@@ -26,8 +26,7 @@ SECRET_KEY = '56%sg+r@y(&)5=5_p+d-jvze$h)jn6paje6rcshfa59e_a3#&$'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-'8ea2ae3f936d.ngrok.io',
-'work87.herokuapp.com',
+'shielded-forest-97281.herokuapp.com',
 ]
 
 
